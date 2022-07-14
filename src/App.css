@@ -74,7 +74,7 @@ h1 {
   cursor: pointer;
 }
 
-/* .search button {
+.search button {
   padding: 20px 40px;
   border-radius: 0.5rem;
   margin-left: 15px;
@@ -88,7 +88,7 @@ h1 {
   background: #1f2123;
   -webkit-box-shadow: 5px 5px 7px #1c1d1f, -5px -5px 7px #222527;
   box-shadow: 5px 5px 7px #1c1d1f, -5px -5px 7px #222527;
-} */
+}
 
 .empty {
   width: 100%;

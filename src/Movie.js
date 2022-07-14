@@ -1,8 +1,8 @@
 import React from 'react';
 
-// const Movie = ({ movie: { imdbID, Year, Poster, Title, Type } }) => {
+
 const Movie = ({movie}) => {
-  // console.log(props)
+
   return (
     <div className="movie" key={movie.imdbID}>
       <div>
